@@ -1,0 +1,21 @@
+h2{
+    text-align: center;
+}
+.demod{
+    display: grid;
+    grid-template-columns:  3fr 3fr;
+}
+button{
+    height: 100px;
+    width: 200px;
+    margin-left: 40%;
+    background-color: brown;
+}
+.modal-body img{
+    width: 300px;
+    height: 100px;
+    margin: auto;
+}
+.modal-footer button{
+    width: 100%;
+}
